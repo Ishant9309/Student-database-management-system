@@ -34,7 +34,7 @@ A simple Java console-based application to manage student records using JDBC and
 ```
 ---
 
-##Output
+## Output
 
 <img width="774" height="680" alt="output1 (1)" src="https://github.com/user-attachments/assets/aa5b3397-f9af-4b94-85f6-3652f58e3c3a" />
 

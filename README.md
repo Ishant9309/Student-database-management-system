@@ -68,8 +68,4 @@ CREATE TABLE std (
 - Ishant Teli
 - Abhishek Devraye
 - Manoj Warkhade
-
-
-
-
-
+- Akash Jadhav

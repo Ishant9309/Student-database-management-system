@@ -67,6 +67,7 @@ CREATE TABLE std (
 ## Team members
 - Ishant Teli
 - Abhishek Devraye
+- Manoj Warkhade
 
 
 

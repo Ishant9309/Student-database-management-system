@@ -4,6 +4,15 @@ A simple Java console-based application to manage student records using JDBC and
 
 ---
 
+## Team Members
+
+- Ishant Teli
+- Abhishek devraye
+- Manoj Warkhade
+- Akash Jadhav
+
+---
+
 ## Features
 
 - Insert new student records (Name, Email, Age)
@@ -63,9 +72,3 @@ CREATE TABLE std (
 - your name: Ishant Teli
 - Email: ishantteli27@gmail.com
 - GitHub: Ishant9309
-
-## Team members
-- Ishant Teli
-- Abhishek Devraye
-- Manoj Warkhade
-- Akash Jadhav
